@@ -1,7 +1,7 @@
 # Personalização de Forms Python
 
 ![Banner](screenshot/banner.png)
-Projeto visando axiliar programadores Python na personalização de Forms feitos com biblioteca QT.
+Projeto visando auxiliar programadores Python na personalização de Forms feitos com biblioteca QT.
 Esse projeto demonstra diversos temas e o uso de arquivos ```.qss```.
 
 ## .qss Extensão de arquivo
